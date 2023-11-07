@@ -116,7 +116,7 @@ async for part in stream:
 > [!IMPORTANT]
 > We highly recommend instantiating client instances instead of relying on the global client.
 
-We also expose a global client instance that is accessible in a similar fashion to versions prior to v1.
+We also expose a global client instance that is accessible in a similar fashion to version's prior to v1.
 
 ```py
 import openai
